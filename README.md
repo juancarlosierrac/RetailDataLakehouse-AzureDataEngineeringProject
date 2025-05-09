@@ -20,10 +20,12 @@ The pipeline concludes by loading the curated data into Azure Synapse Analytics,
 
 ## **Architecture**
 <div align="center">
-    <img src="https://raw.githubusercontent.com/juancarlosierrac/SQLDB-AzureDataEngineeringProject/main/images/Retail Data Lakehouse - Azure Data Engineering Project.png" 
+    <img src="https://raw.githubusercontent.com/juancarlosierrac/RetailDataLakehouse-AzureDataEngineeringProject/main/images/Retail Data Lakehouse - Azure Data Engineering Project.png" 
          alt="Retail Data Lakehouse Architecture" 
          width="800px"/>
 </div>  
+
+
 
 ---
 
